@@ -63,8 +63,7 @@ Height & \multicolumn{3}{c|}{{\# $\forall$/$\exists$ quantifiers}} & \# generate
 
 效果：
 
-![table example](./pic/table_example.png =600x)
-
+<img src="./pic/table_example.png" width="600" alt="table example"/>
 ## 算法
 
 
