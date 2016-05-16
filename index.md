@@ -1,8 +1,7 @@
-# Writing Paper
+# [Latex tips](./latex_tips.md)
 
-## Paper Structure
+# [Writing a Paper](./paper_writing.md)
 
-## Latex Tips
+# [Tools](./tools.md)
 
-# Tools 
 
