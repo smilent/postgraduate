@@ -1,7 +1,9 @@
-# [Latex tips](./latex_tips.md)
+This article lists some info that you may find useful for your postgraduate study.
 
-# [Writing a Paper](./paper_writing.md)
+## [Latex tips](./latex_tips.md)
 
-# [Tools](./tools.md)
+## [Writing a Paper](./paper_writing.md)
+
+## [Tools](./tools.md)
 
 

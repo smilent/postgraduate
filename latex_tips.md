@@ -64,6 +64,10 @@ Height & \multicolumn{3}{c|}{{\# $\forall$/$\exists$ quantifiers}} & \# generate
 效果：
 
 <img src="./pic/table_example.png" width="600" alt="table example"/>
+
+
+>有时候，当对一个单元格划分成若干子单元格的时候，例如该例中用的**\multicolumn{2}{c|}**命令，需要注意后面的**{c|}**只有一个**|**，否则的话，边界会有两条直线，显得边界被加粗一样。
+
 ## 算法
 
 
